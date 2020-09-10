@@ -5,13 +5,13 @@ body{
 .container{
  border: 15px solid #000000;
  left:10.4%;
- position: absolute;
+ position: fixed;
  width: 550px;
  height: 550px;
  background-color: #09ced4;
 }
 .bigcircle{
-  position:absolute;
+  position:fixed;
   top: 3%;
   left: 12%;
   transform: translate(-50,-50);
@@ -22,7 +22,7 @@ body{
   background: #ce8c11;
 }
 .rcircle{
-  position:absolute;
+  position: fixed;
   top: 21%;
   left: 30%;
   transform: translate(-50,-50);
@@ -33,7 +33,7 @@ body{
   background: #f1c604;
 }
 .lcircle{
-  position:absolute;
+  position:fixed;
   top: 21%;
   left: 13.5%;
   transform: translate(-50,-50);
@@ -44,7 +44,7 @@ body{
   background: #f1c604;
 }
 .halfcircle1{
-  position: absolute;
+  position: fixed;
   background-color:#000000;
   top: 32%;
   left: 33%;
@@ -54,7 +54,7 @@ body{
   transform:rotate(150deg);
 }
 .halfcircle2{
-  position: absolute;
+  position: fixed;
   background-color:#000000;
   top: 32%;
   left: 16%;
@@ -64,7 +64,7 @@ body{
   transform: rotate(210deg);
 }
 .lbrow{
-  position: absolute;
+  position: fixed;
   top: 12%;
   left: 43%;
   width: 20px;
@@ -74,7 +74,7 @@ body{
   transform: rotate(75deg)
 }
 .rbrow{
-  position: absolute;
+  position: fixed;
   top: 12%;
   left: 14%;
   width: 20px;
@@ -84,7 +84,7 @@ body{
   transform: rotate(105deg)
 }
 .beak{
-  position: absolute;
+  position: fixed;
   top: 45%;
   left: 26%;
   border-radius: 25px;
