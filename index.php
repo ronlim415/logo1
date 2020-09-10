@@ -1,5 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
+<!DOCTYPE html>
+<html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -9,6 +11,7 @@
 <body>
   <div class="container"></div>
   <div class="bigcircle"></div>
+  <div class="bgc"></div>
   <div class="rcircle"></div>
   <div class="lcircle"></div>
   <div class="halfcircle1"></div>
